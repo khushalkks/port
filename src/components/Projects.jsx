@@ -31,7 +31,7 @@ const projects = [
     description:
       "evRide is a smart platform for discovering and booking electric vehicle rides. It promotes sustainable travel with real-time EV availability and optimized route planning.",
     image: "/assets/p3.png",
-    link: "/assets/p3.png",
+    link: "https://evrides.vercel.app/",
     tech: ["Vite", "React", "3D Effects"],
     category: "EVRIDES",
     gradient: "from-pink-500 to-rose-500",
