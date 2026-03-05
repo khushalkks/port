@@ -1,4 +1,4 @@
-# 🚀 Khushal's Portfolio
+# Khushal's Portfolio
 
 > A modern, responsive portfolio web app built with React/Next.js & Node.js/Express — showcasing projects, skills, and achievements.
 
